@@ -26,3 +26,6 @@ pip install -r requirements.txt
 - dbinterfacefunctions.py contains functions for interacting with the database, specifically in the case of the Django webapp. With minor reworking, these are generalizable to other webapps.
 - prolificinterfacefunctions.py contains functions for creating and accessing Prolific studies. 
 - analysisfunctions.py contains general functions used in analysis. 
+
+# Behavioral data
+The behavioral data can be downloaded at https://zenodo.org/records/10155670.
